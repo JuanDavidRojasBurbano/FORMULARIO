@@ -68,7 +68,7 @@ input, select, textarea {
     border-radius: 0.5em;
     font-size: 1.2em;
     font-family: 'Italianno', cursive;
-    color: rgb(244, 244, 244);
+    color: #fa0000;
     background-color: rgba(40, 45, 133, 0.5);
 }
 
